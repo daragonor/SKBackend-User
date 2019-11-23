@@ -1,0 +1,5 @@
+{
+    "GCLOUD_PROJECT": "smartkitchen-256018",
+    "DATA_BACKEND": "datastore",
+    "CLOUD_BUCKET": "smartkitchen-256018"
+}
